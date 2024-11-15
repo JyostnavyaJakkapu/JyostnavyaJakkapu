@@ -86,12 +86,17 @@
 
 <h3 align="left">🔥  My Stats :</h3>
 
-[Check out my DevOps stats here!](https://github.com/JyostnavyaJakkapu)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JyostnavyaJakkapu&show_icons=true&count_private=true&hide=prs&theme=radical" alt="My GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyostnavyaJakkapu&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+</p>
 
 
-###
 
-🔄 Version Control: Git, GitHub
+
 ## 🔄 What I’m working on:
 
 🚀 Streamlining deployments with Kubernetes
